@@ -6,8 +6,7 @@
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server",
-    "minimist": ">=1.2.3"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
